@@ -52,12 +52,12 @@ body {
 
 .hero-banner {
     background-color: #82AEF0;
-    border: 1px solid #805497;
+    border: 1px solid #7F58AA;
     padding: 24px;
 }
 
 .hero-banner h1 {
-    font-size: 32px;
+    font-size: 36px;
     margin-bottom: 12px;
 }
 
@@ -67,7 +67,7 @@ body {
 }
 
 .btn-primary {
-    background-color: #805497;
+    background-color: #7F58AA;
     color: white;
     border: none;
     font-size: 16px;
@@ -79,8 +79,8 @@ body {
 }
 
 .hero-sidebar {
-    background-color: #C8DBF5;
-    border: 1px solid #805497;
+    background-color: #CBDEFA;
+    border: 1px solid #7F58AA;
     padding: 24px;
 }
 
@@ -107,8 +107,8 @@ body {
 .card {
     display: flex;
     flex-direction: column;
-    background-color: #D6C4F1;
-    border: 1px solid #805497;
+    background-color: #D3C1F5;
+    border: 1px solid #7F58AA;
     padding: 16px;
     min-height: 320px;
 }
@@ -133,7 +133,7 @@ body {
 .btn-card {
     margin-top: auto;
     align-self: flex-start;
-    background-color: #805497;
+    background-color: #7F58AA;
     color: white;
     border: none;
     font-size: 16px;
@@ -148,7 +148,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    background-color: #805497;
+    background-color: #7F58AA;
     color: white;
     padding: 24px 20px;
     gap: 12px;
